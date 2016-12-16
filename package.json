@@ -1,0 +1,30 @@
+{
+  "name": "algorithms",
+  "version": "0.0.1",
+  "description": "General Algorithms in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sposmen/algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "coursera"
+  ],
+  "author": "Jaime Giraldo <sposmen@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sposmen/algorithms/issues"
+  },
+  "homepage": "https://github.com/sposmen/algorithms#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.2",
+    "phantomjs": "^2.1.7"
+  }
+}
